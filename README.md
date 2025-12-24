@@ -110,6 +110,14 @@ The system is engineered with **enterprise readiness** as a core design principl
 - **Export Flexibility**  
   Multiple output formats tailored for analysts, executives, and board-level stakeholders
 
+  ---
+
+## 🔄 Workflow Pipeline
+
+The platform follows a **structured, end-to-end FP&A workflow** that mirrors real-world financial planning and decision-making processes.
+
+
+
 
 
 ## System Architecture

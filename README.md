@@ -44,15 +44,16 @@ These constraints slow down decision-making and reduce the strategic impact of f
 ```
 fpna-ai-agent/
 ├── app.py
-├── file_handler.py
-├── data_cleaning.py
-├── filters.py
-├── analytics.py
-├── forecasting.py
-├── scenario.py
-├── visualizations.py
-├── report_generator.py
-└── assets/
+├── agent
+   ├── file_handler.py
+   ├── data_cleaning.py
+   ├── filters.py
+   ├── analytics.py
+   ├── forecasting.py
+   ├── scenario.py
+   ├── visualizations.py
+   ├── report_generator.py
+
 ```
 
 ---

@@ -59,6 +59,8 @@ Each module encapsulates a specific responsibility, enabling scalability, mainta
 
 This architecture ensures **clear separation of concerns**, reproducible analytics, and enterprise-grade extensibility.
 
+---
+
 ### 2. Professional Financial Focus 💼
 
 The platform is purpose-built for **Financial Planning & Analysis (FP&A)** workflows, aligning closely with how finance teams operate in real-world environments.

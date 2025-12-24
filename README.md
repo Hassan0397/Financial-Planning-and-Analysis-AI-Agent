@@ -263,6 +263,13 @@ python -m venv .venv
 
 ```
 
+## Step 3: Activate the Virtual Environment
+Activate the environment using the following command (Windows PowerShell):
+
+```bash
+.\.venv\Scripts\Activate.ps1
+
+```
 
 
 ## Summary

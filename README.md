@@ -145,7 +145,65 @@ The platform follows a **structured, end-to-end FP&A workflow** that mirrors rea
 8. **Generate Executive Reports**  
    Produce professional, stakeholder-ready reports in multiple formats
 
+---
 
+## 🚀 Technical Architecture
+
+The platform is engineered using a **modular, extensible, and production-ready architecture**, balancing analytical performance with maintainability and security.
+
+---
+
+### Frontend
+
+- **Framework**  
+  Streamlit (Python-based web application framework)
+
+- **UI / UX**  
+  Custom CSS for clean, professional, enterprise-grade styling
+
+- **Data Visualization**  
+  Interactive financial charts and dashboards using Plotly
+
+- **Layout & Navigation**  
+  Responsive design with sidebar-driven workflow navigation
+
+---
+
+### Backend
+
+- **Language**  
+  Python 3.8+
+
+- **Data Processing**  
+  Pandas, NumPy for efficient financial data manipulation
+
+- **Forecasting & Modeling**  
+  Statistical time-series models using Prophet and Statsmodels
+
+- **Reporting Engine**  
+  Programmatic generation of reports using ReportLab, `python-docx`, and `python-pptx`
+
+- **Session Management**  
+  Stateful workflow orchestration via Streamlit Session State
+
+- **File Handling**  
+  Native Python libraries for secure and efficient file operations
+
+---
+
+### System Design Principles
+
+- **Modular**  
+  Each component is independently developed, tested, and maintained
+
+- **Extensible**  
+  New analytical modules can be added without impacting existing functionality
+
+- **Integrated**  
+  Shared data contracts and session state ensure seamless module interoperability
+
+- **Error-Resilient**  
+  Graceful degradation and fallback mechanisms for missing or optional dependencies
 
 
 

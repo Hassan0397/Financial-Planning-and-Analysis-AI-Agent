@@ -39,18 +39,26 @@ These constraints slow down decision-making and reduce the strategic impact of f
 
 ---
 
+## 📋 Key Features
 
- **Module**	                 **Purpose**	                             **Key Capabilities**
+### 1. Modular Architecture 🧩
 
-**📁 file_handler.py**    Data Ingestion	      Multi-format upload, entity detection, relationship mapping
+The platform is designed using a **modular, decoupled architecture** consisting of **eight independent yet fully integrated modules**.  
+Each module encapsulates a specific responsibility, enabling scalability, maintainability, and seamless future extension.
 
-🧹 data_cleaning.py	Data Preparation	5-tab interface for comprehensive financial data preprocessing
-⚙️ filters.py	Data Segmentation	Interactive filtering system with global application
-📈 analytics.py	Core Analysis	KPI dashboards, variance analysis, profitability segmentation
-🔮 forecasting.py	Predictive Analytics	Multiple models (Prophet, ARIMA), scenario forecasts
-🎯 scenario.py	What-if Analysis	Business scenario modeling, sensitivity analysis
-📊 visualizations.py	Data Visualization	Interactive charts, dashboard builder, financial graphics
-📄 report_generator.py	Output Generation	Professional reports (PDF, Word, PPT, HTML)
+| Module | Purpose | Key Capabilities |
+|------|--------|-----------------|
+| **📁 `file_handler.py`** | Data Ingestion | Multi-format uploads, entity detection, relationship mapping |
+| **🧹 `data_cleaning.py`** | Data Preparation | Multi-step financial preprocessing with structured UI workflow |
+| **⚙️ `filters.py`** | Data Segmentation | Interactive global filtering across all analysis stages |
+| **📈 `analytics.py`** | Core Analysis | KPI dashboards, variance analysis, profitability segmentation |
+| **🔮 `forecasting.py`** | Predictive Analytics | Time-series models (Prophet, ARIMA), scenario-based forecasts |
+| **🎯 `scenario.py`** | What-if Analysis | Business scenario modeling, sensitivity analysis |
+| **📊 `visualizations.py`** | Data Visualization | Interactive charts, financial dashboards, drill-down analysis |
+| **📄 `report_generator.py`** | Output Generation | Automated professional reports (PDF, Word, PPT, HTML) |
+
+This architecture ensures **clear separation of concerns**, reproducible analytics, and enterprise-grade extensibility.
+
 
 ## System Architecture
 

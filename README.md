@@ -248,8 +248,19 @@ The platform is designed to address limitations commonly found in spreadsheet-ba
   Native support for what-if and sensitivity analysis to enable informed strategic planning
 
 
-
 ---
+
+# Get Started
+
+## Step 1: Download the Project
+First, download this project to your local machine.
+
+## Step 2: Create a Virtual Environment
+Open your terminal in the project directory and run:
+
+```bash
+python -m venv .venv
+
 
 ## Summary
 

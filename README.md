@@ -116,6 +116,7 @@ The system is engineered with **enterprise readiness** as a core design principl
 
 The platform follows a **structured, end-to-end FP&A workflow** that mirrors real-world financial planning and decision-making processes.
 
+📁 Upload → 🧹 Clean → ⚙️ Filter → 📈 Analyze → 🔮 Forecast → 🎯 Model → 📊 Visualize → 📄 Report
 
 
 

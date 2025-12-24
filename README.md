@@ -271,6 +271,13 @@ Activate the environment using the following command (Windows PowerShell):
 
 ```
 
+## Step 4: Install Required Libraries
+Install all required dependencies using the requirements.txt file:
+
+```bash
+pip install -r requirements.txt
+
+```
 
 ## Summary
 

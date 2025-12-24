@@ -40,8 +40,10 @@ These constraints slow down decision-making and reduce the strategic impact of f
 ---
 
 
-Module	Purpose	Key Capabilities
-📁 file_handler.py	Data Ingestion	Multi-format upload, entity detection, relationship mapping
+## Module	                 Purpose	                             Key Capabilities
+
+**📁 file_handler.py**    Data Ingestion	      Multi-format upload, entity detection, relationship mapping
+
 🧹 data_cleaning.py	Data Preparation	5-tab interface for comprehensive financial data preprocessing
 ⚙️ filters.py	Data Segmentation	Interactive filtering system with global application
 📈 analytics.py	Core Analysis	KPI dashboards, variance analysis, profitability segmentation

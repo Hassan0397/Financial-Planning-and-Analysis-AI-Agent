@@ -40,7 +40,7 @@ These constraints slow down decision-making and reduce the strategic impact of f
 ---
 
 
-## Module	                 Purpose	                             Key Capabilities
+ **Module**	                 **Purpose**	                             **Key Capabilities**
 
 **📁 file_handler.py**    Data Ingestion	      Multi-format upload, entity detection, relationship mapping
 

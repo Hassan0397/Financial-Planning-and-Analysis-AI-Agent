@@ -168,14 +168,7 @@ fpna-ai-agent/
 
 ---
 
-## Tech Stack
 
-- Python 3.8+
-- Streamlit
-- Pandas, NumPy
-- Statistical forecasting models
-- Interactive visualization libraries
-- Automated report generation tools
 
 ---
 

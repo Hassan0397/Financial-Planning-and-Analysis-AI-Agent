@@ -261,6 +261,9 @@ Open your terminal in the project directory and run:
 ```bash
 python -m venv .venv
 
+```
+
+
 
 ## Summary
 

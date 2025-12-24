@@ -119,6 +119,34 @@ The platform follows a **structured, end-to-end FP&A workflow** that mirrors rea
 📁 Upload → 🧹 Clean → ⚙️ Filter → 📈 Analyze → 🔮 Forecast → 🎯 Model → 📊 Visualize → 📄 Report
 
 
+### Typical User Journey
+
+1. **Upload Financial Data**  
+   Import P&L statements, budgets, forecasts, and supporting financial datasets
+
+2. **Clean & Standardize Data**  
+   Apply automated preprocessing to normalize schemas, metrics, and formats
+
+3. **Apply Business Filters**  
+   Segment data by departments, products, regions, or other business dimensions
+
+4. **Run Analytical Workflows**  
+   Perform KPI calculations, trend analysis, and budget vs actual variance analysis
+
+5. **Generate Forecasts**  
+   Create predictive projections using statistical time-series models
+
+6. **Model Business Scenarios**  
+   Evaluate best, worst, and expected-case outcomes through what-if analysis
+
+7. **Build Interactive Dashboards**  
+   Visualize financial performance with interactive charts and drill-down views
+
+8. **Generate Executive Reports**  
+   Produce professional, stakeholder-ready reports in multiple formats
+
+
+
 
 
 ## System Architecture

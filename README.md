@@ -39,6 +39,17 @@ These constraints slow down decision-making and reduce the strategic impact of f
 
 ---
 
+
+Module	Purpose	Key Capabilities
+📁 file_handler.py	Data Ingestion	Multi-format upload, entity detection, relationship mapping
+🧹 data_cleaning.py	Data Preparation	5-tab interface for comprehensive financial data preprocessing
+⚙️ filters.py	Data Segmentation	Interactive filtering system with global application
+📈 analytics.py	Core Analysis	KPI dashboards, variance analysis, profitability segmentation
+🔮 forecasting.py	Predictive Analytics	Multiple models (Prophet, ARIMA), scenario forecasts
+🎯 scenario.py	What-if Analysis	Business scenario modeling, sensitivity analysis
+📊 visualizations.py	Data Visualization	Interactive charts, dashboard builder, financial graphics
+📄 report_generator.py	Output Generation	Professional reports (PDF, Word, PPT, HTML)
+
 ## System Architecture
 
 ```

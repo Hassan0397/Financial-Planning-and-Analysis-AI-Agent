@@ -289,7 +289,4 @@ streamlit run app.py
 
 ## Summary
 
-FP&A AI Agent is an enterprise-grade financial intelligence platform built on robust system design, advanced financial analytics, and applied data science principles.  
-It automates data ingestion, validation, and multi-dimensional analysis across financial statements and operational datasets.  
-The agent delivers real-time insights, variance analysis, and AI-driven forecasting to support executive-level decision-making.  
-By eliminating manual reporting workflows, it empowers finance teams to shift from reactive reporting to proactive, strategy-driven financial planning.
+FP&A AI Agent is an enterprise-grade financial intelligence platform built on robust system design, advanced financial analytics, and applied data science principles. It automates data ingestion, validation, and multi-dimensional analysis across financial statements and operational datasets. The agent delivers real-time insights, variance analysis, and AI-driven forecasting to support executive-level decision-making. By eliminating manual reporting workflows, it empowers finance teams to shift from reactive reporting to proactive, strategy-driven financial planning.

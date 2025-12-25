@@ -1,0 +1,47 @@
+# Streamlit & Core
+streamlit
+pandas
+numpy
+
+# Data Processing
+openpyxl
+xlrd
+
+# Data Analysis & Statistics
+scipy
+statsmodels
+
+# Machine Learning & Forecasting (Python 3.11+ compatible versions)
+scikit-learn
+# Prophet for Python 3.11+ requires a different installation method
+# neuralprophet==0.4.0  # Not compatible with 3.11, use newer version
+neuralprophet # Latest compatible version for Python 3.11+
+pmdarima
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# AI & NLP
+transformers
+sentence-transformers
+langchain
+chromadb
+faiss-cpu
+gpt4all
+
+# Optional
+openai
+python-dotenv
+
+# Reporting
+fpdf2
+python-docx
+python-pptx
+
+# Utilities
+python-dateutil
+pytz
+tabulate
+tqdm

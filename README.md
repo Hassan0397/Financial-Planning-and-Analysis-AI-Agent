@@ -279,6 +279,14 @@ pip install -r requirements.txt
 
 ```
 
+## Step 5: Run the Application
+Start the Streamlit application by running:
+
+```bash
+streamlit run app.py
+
+```
+
 ## Summary
 
 FP&A AI Agent demonstrates strong foundations in **system design, financial analytics, and applied data science**, enabling finance teams to move from manual reporting to strategic insight generation.
